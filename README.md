@@ -1,1 +1,2 @@
 # cppthreads
+Just simple homework
