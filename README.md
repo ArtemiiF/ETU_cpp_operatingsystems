@@ -1,2 +1,2 @@
-# Lab works on the subject of operating systems
-Just simple homework. 
+# Лабы по предмету операционные системы
+В каждой лабе скрипт + cpp файл.
