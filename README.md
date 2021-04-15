@@ -1,2 +1,2 @@
-# cppthreads in linux
-Just simple homework
+# Lab works on the subject of operating systems
+Just simple homework. 
